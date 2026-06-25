@@ -44,7 +44,7 @@ Interactive **HR analytics dashboard** built in Power BI, analyzing **1,000 empl
 ### 🖼️ Dashboard Preview
 
 <div align="center">
-  <img src="HR_Analytics_Dashboard.png" width="85%" alt="HR Analytics Dashboard preview"/>
+  <img src="HR Analytics Dashboard — Employee Insights 2026.png" width="85%" alt="HR Analytics Dashboard preview"/>
 </div>
 
 ---
